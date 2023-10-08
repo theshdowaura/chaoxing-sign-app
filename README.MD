@@ -1,3 +1,7 @@
-<h1>使用go语言重写</h1>
-<h2 align="center">超星学习通签到-APP版</h2>
-<p>全部重写一个不剩</p>
+超星学习通自动签到 golang版本
+
+local_module 用于本地
+
+sign_module 可以使用github action进行自动执行
+
+继续更新

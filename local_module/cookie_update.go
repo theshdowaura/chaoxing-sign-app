@@ -69,5 +69,3 @@ func login(client http.Client) error {
 
 	return nil
 }
-
-//// 刷新成功
